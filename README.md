@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fpimentel21
+- 👋 Hi, I’m Felipe Pimentel
 - 👀 I’m interested in learning how to programming 
 - 🌱 I’m currently learning Html, CSS, JS e PHP
 - 📫 How to reach me -> felippimentel@yahoo.com
