@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Felipe Pimentel
-- 👀 I’m interested in learning Data Cience and Analysis. 
+- 👀 I’m interested in learn Data Cience and Analysis. 
 - 🌱 I’m currently learning Python & SQL
 - 📫 How to reach me -> felippimentel@yahoo.com
 - :computer: You alson can find me -> https://www.linkedin.com/in/luiz-felipe-pimentel-saraiva-813b54229/
